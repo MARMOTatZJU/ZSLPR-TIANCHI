@@ -102,3 +102,18 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# IDE (PyCharm)
+.idea/
+
+# local config file
+Src/config/config_local.py
+
+# path result
+Result
+
+# ConvNet model
+Model
+
+# Linux swap file
+*.swp
