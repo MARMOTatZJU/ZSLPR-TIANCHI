@@ -1,6 +1,6 @@
 # ZSLPR-TIANCHI
 This is the report repositroy for [**ZhejiangLab Cup Global Artificial Intelligence Competition 2018**](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.11165320.5678.1.7b964899Om4fqt&raceId=231677) (Zero-shot Learning Picture Recognition track) within which we have ranked at **35/3224**  (team *AILAB-ZJU*, classification accuracy=**0.1900** during the semi-final).<br>
-This competition has been completed in collaboration with the teammate from **Student AI Association of Zhejiang University**: [L. Hong](https://github.com/lanhongvp), [Y. Gu](https://github.com/shaoniangu), [X. Chen](https://github.com/XavierCHEN34), [L. Hu](https://github.com/rainofmine). In addition, [L. Hao](https://github.com/michuanhaohao)(asso. president), [Y. Li](https://github.com/wxzs5) and [Z. Tian](https://github.com/ZichenTian) have also given useful advices. Thanks to all of them.
+This competition has been completed in collaboration with the teammate from **Student AI Association of Zhejiang University**: [L. Hong](https://github.com/lanhongvp), [Y. Gu](https://github.com/shaoniangu), [X. Chen](https://github.com/XavierCHEN34), [L. Hu](https://github.com/rainofmine). In addition, [L. Hao](https://github.com/michuanhaohao)(asso. president), [Y. Li](https://github.com/wxzs5) and [Z. Tian](https://github.com/ZichenTian) have also given useful advices. Thanks to all of them.<br>
 All the codes are written in Python and within PyTorch framework.
 
 # Competition Description
