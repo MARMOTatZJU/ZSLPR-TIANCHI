@@ -5,7 +5,9 @@ All the codes are written in Python and within PyTorch framework.
 
 # Competition Description
 ## ZSL Problem
-**Zero shot learning (ZSL)** is one of the semi-supervised recognition methods. Simply put, it is to identify the data categories that have never been seen before, that is, the trained classifier can not only identify the existing data categories in the training set, but also distinguish the data from the unseen categories. The ZSL problem is usually addressed with the aid of category level annotations as input, e.g. class name embedding/class annotations.
+**Zero shot learning (ZSL)** is one of the semi-supervised recognition methods. Simply put, it is to identify the data categories that have never been seen before, that is, the trained classifier can not only identify the existing data categories in the training set, but also distinguish the data from the unseen categories. The ZSL problem is usually addressed with the aid of category level annotations as input, e.g. class name embedding/class annotations.<br>
+Hereby is an illustration from [this paper](https://arxiv.org/abs/1803.08035)<br>
+![ZSL illustration](https://github.com/MARMOTatZJU/ZSLPR-TIANCHI/Misc/img/README.md/zsl_illustration.png)
 
 ## Dataset
 Around 30k images have been utilised from the raw images set(DatasetA+DatasetB+DatasetC+DatasetD) which originally contained around 150k images in total, after a manual cleaning process in order to address the noisy dataset problem. The original images are resized under different shape, and we unified them at 96x96.<br>
